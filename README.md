@@ -2,7 +2,6 @@
 
 > **Trabajo Integrador** — Arquitectura y Sistemas Operativos  
 > **Tecnicatura Universitaria en Programación a Distancia — UTN**  
-> **Comisión 11**
 
 ---
 
@@ -10,10 +9,10 @@
 
 | Alumno | Comisión |
 |--------|----------|
-| **Acosta, Benjamín** | 11 |
+| **Acosta, Benjamín** | 23 |
 | **Hernández, Gabriel** | 11 |
 
-**Tutores:** Andrés Odiard — Comisión 11
+**Profesores:** Andrés Odiard — Miguel Tola
 
 ---
 
@@ -566,12 +565,5 @@ Como futuro técnico en programación, esta experiencia evidencia la importancia
 - Linux Audit Documentation. (s.f.). https://github.com/linux-audit/audit-documentation
 - UFW - Uncomplicated Firewall. (s.f.). https://help.ubuntu.com/community/UFW
 
----
-
-## Licencia
-
-Este proyecto fue desarrollado con fines académicos para la materia **Arquitectura y Sistemas Operativos** de la **UTN — Tecnicatura Universitaria en Programación a Distancia**.
-
----
 
 > *"La seguridad no es un producto, es un proceso."* — Bruce Schneier
